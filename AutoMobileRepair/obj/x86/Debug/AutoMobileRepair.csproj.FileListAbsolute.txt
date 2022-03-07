@@ -1,0 +1,18 @@
+c:\users\manpreet\documents\visual studio 2010\Projects\AutoMobileRepair\AutoMobileRepair\bin\Debug\AutoMobileRepair.exe
+c:\users\manpreet\documents\visual studio 2010\Projects\AutoMobileRepair\AutoMobileRepair\bin\Debug\AutoMobileRepair.pdb
+c:\users\manpreet\documents\visual studio 2010\Projects\AutoMobileRepair\AutoMobileRepair\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\manpreet\documents\visual studio 2010\Projects\AutoMobileRepair\AutoMobileRepair\obj\x86\Debug\AutoMobileRepair.Form1.resources
+c:\users\manpreet\documents\visual studio 2010\Projects\AutoMobileRepair\AutoMobileRepair\obj\x86\Debug\AutoMobileRepair.Properties.Resources.resources
+c:\users\manpreet\documents\visual studio 2010\Projects\AutoMobileRepair\AutoMobileRepair\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\manpreet\documents\visual studio 2010\Projects\AutoMobileRepair\AutoMobileRepair\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\manpreet\documents\visual studio 2010\Projects\AutoMobileRepair\AutoMobileRepair\obj\x86\Debug\AutoMobileRepair.exe
+c:\users\manpreet\documents\visual studio 2010\Projects\AutoMobileRepair\AutoMobileRepair\obj\x86\Debug\AutoMobileRepair.pdb
+D:\Projects\AutoMobileRepair\AutoMobileRepair\bin\Debug\AutoMobileRepair.exe
+D:\Projects\AutoMobileRepair\AutoMobileRepair\bin\Debug\AutoMobileRepair.pdb
+D:\Projects\AutoMobileRepair\AutoMobileRepair\obj\x86\Debug\AutoMobileRepair.Form1.resources
+D:\Projects\AutoMobileRepair\AutoMobileRepair\obj\x86\Debug\AutoMobileRepair.Properties.Resources.resources
+D:\Projects\AutoMobileRepair\AutoMobileRepair\obj\x86\Debug\AutoMobileRepair.csproj.GenerateResource.Cache
+D:\Projects\AutoMobileRepair\AutoMobileRepair\obj\x86\Debug\AutoMobileRepair.csproj.CoreCompileInputs.cache
+D:\Projects\AutoMobileRepair\AutoMobileRepair\obj\x86\Debug\AutoMobileRepair.exe
+D:\Projects\AutoMobileRepair\AutoMobileRepair\obj\x86\Debug\AutoMobileRepair.pdb
+D:\Projects\AutoMobileRepair\AutoMobileRepair\obj\x86\Debug\AutoMobileRepair.csproj.AssemblyReference.cache
